@@ -87,26 +87,26 @@ Hi 👋 I'm Luna
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2038%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-🌃 Evening                64 commits          █████████████░░░░░░░░░░░░   52.89 % 
-🌙 Night                  39 commits          ████████░░░░░░░░░░░░░░░░░   32.23 % 
+🌆 Daytime                19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+🌃 Evening                74 commits          ██████████████░░░░░░░░░░░   55.22 % 
+🌙 Night                  41 commits          ████████░░░░░░░░░░░░░░░░░   30.60 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Tuesday                  29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Thursday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Friday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-Saturday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Sunday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Monday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Tuesday                  29 commits          █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Thursday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Friday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Saturday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Sunday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
 ```
 
 
@@ -126,6 +126,6 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/08/2024 18:36:36 UTC
+ Last Updated on 31/08/2024 18:35:00 UTC
 <!--END_SECTION:waka-->
 </details>
